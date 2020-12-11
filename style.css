@@ -1,0 +1,11 @@
+body {
+  color: aqua;
+}
+
+.main {
+  background-color: rgb(211, 211, 211);
+}
+
+.main__header {
+  background-color: rgb(231, 12, 12);
+}
